@@ -21,7 +21,7 @@ This would allow the business to identify which regions & groups of customers wo
 
 [**Interactive Dashboard**](https://)
 
-![dashboard-screenshot](./dashboard-screenshot.png)
+![dashboard-screenshot](./assets/dashboard-screenshot.png)
   
 ---  
 
