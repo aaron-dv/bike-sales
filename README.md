@@ -15,7 +15,7 @@
 
 This project, completed as part of a guided learning exercise, aims to provide insights into the sales performance of a  hypothetical company which sells bicycles.
 
-Through the analysis of a dataset of customer information, we can draw insights as to whether various factors such as income level, age, and commute distance have an impact on the purchasing decision of a customer.
+Through the analysis of a dataset of customer information, we can draw insights as to whether various factors such as customer income level, age, and commute distance have an impact on the purchasing decision of a customer.
 
 This would allow the business to identify which regions & groups of customers would be the most effective to target in terms of marketing strategy.
 
