@@ -19,7 +19,7 @@ Through the analysis of a dataset of customer information, we can draw insights 
 
 This would allow the business to identify which regions & groups of customers would be the most effective to target in terms of marketing strategy.
 
-[**Interactive Dashboard**](https://)
+[**Interactive Dashboard**](https://1drv.ms/x/c/268b40e9c494717a/Efrz0z864QFArwPTXf49cnkBf5B-r9D7DeQTgxhMycm1gg?e=fcyq30&nav=MTVfe0REN0Q4MTUwLTU2QUQtNERFNC04OUQ2LTg0REIyNzZBRjVDOH0)
 
 ![dashboard-screenshot](./assets/dashboard-screenshot.png)
   
@@ -27,7 +27,7 @@ This would allow the business to identify which regions & groups of customers wo
 
 ### Data Sources
 
-The primary dataset used for this analysis is the "Dataset" sheet ([available here](https://)) of the "bike-sales.xlsx" file; Ii contains various details pertaining to customers who either did or did not purchase bikes from the business.
+The primary dataset used for this analysis is the "Dataset" sheet ([available here](https://1drv.ms/x/c/268b40e9c494717a/Efrz0z864QFArwPTXf49cnkBf5B-r9D7DeQTgxhMycm1gg?e=JpKLQJ&nav=MTVfezAwMDAwMDAwLTAwMDEtMDAwMC0wMDAwLTAwMDAwMDAwMDAwMH0)) of the "bike-sales.xlsx" file; Ii contains various details pertaining to customers who either did or did not purchase bikes from the business.
   
 ---  
 
