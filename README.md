@@ -1,5 +1,3 @@
-
-
 # Bike Sales
 
 #### Data Analysis & Dashboard w/ Microsoft Excel
@@ -84,15 +82,16 @@ The analysis results can be summarised as follows:
 3.  Customers with a commute distance of 0-1 miles tend to be more likely to make a purchase than any other customer group.
 	1. The exception to this observation is the North American region - this could be due to the customer purchasing the bicycle for recreational purposes rather than transportation, and thus commute distance is a less relevant variable in their decision to purchase.
 
-4. Across all  regions, customers who held a bachelors degree accounted for the most sales. Conversely, customers who only had partial high school education accounted for the least sales.
+4. Across all regions, customers who held a bachelors degree accounted for the most sales. Conversely, customers who only had partial high school education accounted for the least sales.
     1. In the North American region, sales were more evenly distributed across education levels, with the exception of partial high school level, than all other regions.
     2. In the European region, a disproportionately large amount of sales were made to customers who held a bachelor's degree & were married.
        In the North American region, single customers who held a bachelor's degree were far more likely to make a purchase than any other customer group.
        In the Pacific region, single customers who held a partial college level of education were significantly more likely to purchase a bike than their married counterparts.
 
-5. While there is no clearly observable relationship between occupation and sales, some differences within regions were observed.
-	2.  In the European region, sales were more numerous and more likely to single manual workers as opposed to their married counterparts. 
-        In the North American region, sales were more numerous and more likely to single workers in management roles as opposed to their married counterparts. 
+5. While there was no clearly observable relationship between occupation and sales globally, nor correlation between regions, some differences between marital groups within regions were observed.
+	1. -
+        2. In the European region, sales were more numerous and more likely to single manual workers as opposed to their married counterparts.
+           In the North American region, sales were more numerous and more likely to single workers in management roles as opposed to their married counterparts. 
 
 ---
 
