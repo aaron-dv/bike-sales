@@ -89,7 +89,7 @@ The analysis results can be summarised as follows:
        In the Pacific region, single customers who held a partial college level of education were significantly more likely to purchase a bike than their married counterparts.
 
 5. While there was no clearly observable relationship between occupation and sales globally, nor correlation between regions, some differences between marital groups within regions were observed.
-    1. -
+    1. N/A
     2. In the European region, sales were more numerous and more likely to single manual workers as opposed to their married counterparts.
        In the North American region, sales were more numerous and more likely to single workers in management roles as opposed to their married counterparts.
 
